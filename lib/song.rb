@@ -9,7 +9,7 @@ class Song
     if self.artist
       self.artist.name
     else
-      false
+      nil
     end
   end
 end
